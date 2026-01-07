@@ -1,0 +1,8 @@
+venv/
+static/venv310/
+__pycache__/
+*.pyc
+serviceAccountKey.json
+status.txt
+.DS_Store
+
